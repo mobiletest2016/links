@@ -7,8 +7,16 @@ HBase
 
 Hive
 -----
-[https://cwiki.apache.org/confluence/display/Hive/Tutorial](Hive Tutorial)
+[Hive Tutorial](https://cwiki.apache.org/confluence/display/Hive/Tutorial)
 
+
+Flink
+-----
+[Real-Time Exactly-Once Ad Event Processing with Apache Flink and Kafka](https://eng.uber.com/real-time-exactly-once-ad-event-processing/)
+
+[Apache Flink: Flink SQL Demo: Building an End-to-End Streaming Application](https://flink.apache.org/2020/07/28/flink-sql-demo-building-e2e-streaming-application.html)
+
+[Overview | Apache Flink](https://nightlies.apache.org/flink/flink-docs-release-1.14/docs/learn-flink/overview/)
 
 Uncategorized
 -----
@@ -104,8 +112,6 @@ Uncategorized
 
 [Technical Preview of Apache Spark 2.0 Now on Databricks - The Databricks Blog](https://www.databricks.com/blog/2016/05/11/apache-spark-2-0-technical-preview-easier-faster-and-smarter.html)
 
-[Real-Time Exactly-Once Ad Event Processing with Apache Flink and Kafka](https://eng.uber.com/real-time-exactly-once-ad-event-processing/)
-
 [Catalin Pit on Twitter: &quot;&quot;In tech, interviews are harder than the actual jobs&quot; This is a joke, but it can be true in many cases. Unfortunately. Check these 7 GitHub repositories that will help you prepare for the interviews. 💡&quot; / Twitter](https://mobile.twitter.com/catalinmpit/status/1519303615608934401)
 
 [Grokking the Advanced System Design Interview - Learn Interactively](https://www.educative.io/courses/grokking-adv-system-design-intvw?affiliate_id)
@@ -118,13 +124,9 @@ Uncategorized
 
 [ZooKeeper: Because Coordinating Distributed Systems is a Zoo](https://zookeeper.apache.org/doc/current/recipes.html#sc_leaderElection)
 
-[Apache Flink: Flink SQL Demo: Building an End-to-End Streaming Application](https://flink.apache.org/2020/07/28/flink-sql-demo-building-e2e-streaming-application.html)
-
 [[Python] Powerful Ultimate Binary Search Template. Solved many problems - LeetCode Discuss](https://leetcode.com/discuss/general-discussion/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
 
 [Machine Learning — Andrew Ng, Stanford University [FULL COURSE] - YouTube](https://m.youtube.com/playlist?list)
-
-[Overview | Apache Flink](https://nightlies.apache.org/flink/flink-docs-release-1.14/docs/learn-flink/overview/)
 
 [A Deep Dive into Spark SQL&#39;s Catalyst Optimizer with Yin Huai - YouTube](https://m.youtube.com/watch?v)
 

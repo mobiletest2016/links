@@ -2,6 +2,7 @@
 HBase
 -----
 [HBase Data Model](https://hbase.apache.org/book.html#datamodel)
+
 [Introduction to HBase Schema Design - Amandeep Khurana](https://www.usenix.org/system/files/login/articles/login1210_khurana.pdf)
 
 

@@ -1,14 +1,17 @@
-###HBase
-https://hbase.apache.org/book.html#datamodel
-Introduction to HBase Schema Design - Amandeep Khurana
+
+HBase
+-----
+[HBase Data Model](https://hbase.apache.org/book.html#datamodel)
+[Introduction to HBase Schema Design - Amandeep Khurana](https://www.usenix.org/system/files/login/articles/login1210_khurana.pdf)
 
 
-###Hive
-https://cwiki.apache.org/confluence/display/Hive/Tutorial
+Hive
+-----
+[https://cwiki.apache.org/confluence/display/Hive/Tutorial](Hive Tutorial)
 
 
-###Uncategorized
-
+Uncategorized
+-----
 [Extracting, transforming and selecting features - Spark 3.2.0 Documentation](https://spark.apache.org/docs/latest/ml-features)
 
 [Machine Learning Crash Course  |  Google Developers](https://developers.google.com/machine-learning/crash-course)

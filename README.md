@@ -5,6 +5,30 @@ HBase
 
 [Introduction to HBase Schema Design - Amandeep Khurana](https://www.usenix.org/system/files/login/articles/login1210_khurana.pdf)
 
+[Data Model](https://hbase.apache.org/book.html#datamodel)
+
+[Case Studies](https://hbase.apache.org/book.html#schema.casestudies)
+
+[Counters](https://hbase.apache.org/book.html#_counters)
+
+[Schema](https://hbase.apache.org/book.html#schema)
+
+[On the number of column families](https://hbase.apache.org/book.html#number.of.cfs)
+
+[Compaction](https://hbase.apache.org/book.html#compaction)
+
+[WAL](https://hbase.apache.org/book.html#wal)
+
+[RegionServer Splitting Implementation](https://hbase.apache.org/book.html#regionserver_splitting_implementation)
+
+[Secondary Indexes and Alternate Query Paths](https://hbase.apache.org/book.html#secondary.indexes)
+
+
+HDFS
+-----
+
+[HDFS Design](https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html)
+
 
 Hive
 -----
@@ -87,6 +111,12 @@ ML
 
 Spark
 -----
+
+[Spark Structured Streaming](https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html)
+
+[Recovering from Failures with Checkpointing](https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html#recovering-from-failures-with-checkpointing)
+
+[Window Operations on Event Time](https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html#window-operations-on-event-time)
 
 [Extracting, transforming and selecting features - Spark 3.2.0 Documentation](https://spark.apache.org/docs/latest/ml-features)
 

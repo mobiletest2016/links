@@ -47,7 +47,7 @@ Flink
 ML
 -----
 
-## Support Vector Machine:
+### Support Vector Machine:
 
 [https://cs.stanford.edu/~karpathy/svmjs/demo/](https://cs.stanford.edu/~karpathy/svmjs/demo/)
 
@@ -61,10 +61,12 @@ ML
 
 [Free Ebook - Support Vector Machines Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/support-vector-machines-succinctly)
 
-[16. Learning: Support Vector Machines - YouTube](https://m.youtube.com/watch?v)
+[16. Learning: Support Vector Machines - YouTube](https://www.youtube.com/watch?v=_PwhiWxHK8o)
 
 [Support Vector Machines for Beginners - Linear SVM - A Developer Diary](http://www.adeveloperdiary.com/data-science/machine-learning/support-vector-machines-for-beginners-linear-svm/)
 
+
+### Other ML Topics:
 
 [Lil&#39;Log](https://lilianweng.github.io/lil-log/)
 

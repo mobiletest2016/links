@@ -46,9 +46,12 @@ Flink
 
 ML
 -----
-[Lil&#39;Log](https://lilianweng.github.io/lil-log/)
 
-[Machine Learning Crash Course  |  Google Developers](https://developers.google.com/machine-learning/crash-course)
+## Support Vector Machine:
+
+[https://cs.stanford.edu/~karpathy/svmjs/demo/](https://cs.stanford.edu/~karpathy/svmjs/demo/)
+
+[https://github.com/karpathy/svmjs](https://github.com/karpathy/svmjs)
 
 [Free Ebook - Support Vector Machines Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/support-vector-machines-succinctly)
 
@@ -61,6 +64,11 @@ ML
 [16. Learning: Support Vector Machines - YouTube](https://m.youtube.com/watch?v)
 
 [Support Vector Machines for Beginners - Linear SVM - A Developer Diary](http://www.adeveloperdiary.com/data-science/machine-learning/support-vector-machines-for-beginners-linear-svm/)
+
+
+[Lil&#39;Log](https://lilianweng.github.io/lil-log/)
+
+[Machine Learning Crash Course  |  Google Developers](https://developers.google.com/machine-learning/crash-course)
 
 [CS231n Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/neural-networks-3/#sgd)
 

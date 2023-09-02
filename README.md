@@ -1,6 +1,56 @@
+System Design
+-----
+
+[Basic System Design for Uber or Lyft](https://www.youtube.com/watch?v=R_agd5qZ26Y)
+
+[System Design for Twitter (Timeline, Live Updates, Tweeting) ](https://www.youtube.com/watch?v=_QqpD0w8oPM)
+
+[Design a Basic Search Engine (Google or Bing)](https://www.youtube.com/watch?v=0LTXCcVRQi0)
+
+[Design Google Drive or Dropbox (Cloud File Sharing Service)](https://www.youtube.com/watch?v=jLM1nGgsT-I)
+
+[Real-Time Exactly-Once Ad Event Processing with Apache Flink, Kafka, and Pinot](https://www.uber.com/en-IN/blog/real-time-exactly-once-ad-event-processing/)
+
+[Uber Big Data Platform](https://www.uber.com/en-IN/blog/uber-big-data-platform/)
+
+[System Design Interview - YouTube](https://www.youtube.com/c/SystemDesignInterview)
+
+[Amazon System Design | Flipkart System Design | System Design Interview Question - YouTube](https://www.youtube.com/watch?v=EpASu_1dUdE)
+
+[System Design and Architecture Interview Preparation Series by FAANG Engineers - YouTube](https://www.youtube.com/watch?v=3loACSxowRU)
+
+[java - What is PECS (Producer Extends Consumer Super)? - Stack Overflow](https://stackoverflow.com/questions/2723397/what-is-pecs-producer-extends-consumer-super)
+
+[Build a real-time gaming leaderboard with Amazon ElastiCache for Redis | AWS Database Blog](https://aws.amazon.com/blogs/database/building-a-real-time-gaming-leaderboard-with-amazon-elasticache-for-redis/)
+
+[System Design Interview – Step By Step Guide - YouTube]([https://m.youtube.com/watch?v](https://www.youtube.com/watch?app=desktop&v=bUHFg8CZFws))
+
+[System Design Interview - YouTube](https://m.youtube.com/c/SystemDesignInterview/videos)
+
+[Catalin Pit on Twitter: &quot;&quot;In tech, interviews are harder than the actual jobs&quot; This is a joke, but it can be true in many cases. Unfortunately. Check these 7 GitHub repositories that will help you prepare for the interviews. 💡&quot; / Twitter](https://mobile.twitter.com/catalinmpit/status/1519303615608934401)
+
+[GitHub - binhnguyennus/awesome-scalability: The Patterns of Scalable, Reliable, and Performant Large-Scale Systems](https://github.com/binhnguyennus/awesome-scalability)
+
+[EP17: Design patterns cheat sheet. Also... - by Alex Xu](https://blog.bytebytego.com/p/ep17-design-patterns-cheat-sheet)
+
+
+Coding
+-----
+
+[NeetCode Practice](https://neetcode.io/practice)
+
+[LeetCode Solutions](https://www.tutorialcup.com/leetcode-solutions)
+
+[kamyu104/LeetCode-Solutions: 🏋️ Python / Modern C++ Solutions of All 2473 LeetCode Problems (Weekly Update)](https://github.com/kamyu104/LeetCode-Solutions)
+
+[[Python] Powerful Ultimate Binary Search Template. Solved many problems - LeetCode Discuss](https://leetcode.com/discuss/general-discussion/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
+
+[Blind 75 LeetCode Questions - LeetCode Discuss](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
+
 
 HBase
 -----
+
 [HBase Data Model](https://hbase.apache.org/book.html#datamodel)
 
 [Introduction to HBase Schema Design - Amandeep Khurana](https://www.usenix.org/system/files/login/articles/login1210_khurana.pdf)
@@ -147,48 +197,6 @@ ZooKeeper
 [ZooKeeper Recipes](https://zookeeper.apache.org/doc/current/recipes.html)
 
 [ZooKeeper Recipes - Leader Election](https://zookeeper.apache.org/doc/current/recipes.html#sc_leaderElection)
-
-
-System Design
------
-
-[Real-Time Exactly-Once Ad Event Processing with Apache Flink, Kafka, and Pinot](https://www.uber.com/en-IN/blog/real-time-exactly-once-ad-event-processing/)
-
-https://www.uber.com/en-IN/blog/uber-big-data-platform/
-
-[System Design Interview - YouTube](https://www.youtube.com/c/SystemDesignInterview)
-
-[Amazon System Design | Flipkart System Design | System Design Interview Question - YouTube](https://www.youtube.com/watch?v)
-
-[System Design and Architecture Interview Preparation Series by FAANG Engineers - YouTube](https://www.youtube.com/watch?v)
-
-[java - What is PECS (Producer Extends Consumer Super)? - Stack Overflow](https://stackoverflow.com/questions/2723397/what-is-pecs-producer-extends-consumer-super)
-
-[Build a real-time gaming leaderboard with Amazon ElastiCache for Redis | AWS Database Blog](https://aws.amazon.com/blogs/database/building-a-real-time-gaming-leaderboard-with-amazon-elasticache-for-redis/)
-
-[System Design Interview – Step By Step Guide - YouTube](https://m.youtube.com/watch?v)
-
-[System Design Interview - YouTube](https://m.youtube.com/c/SystemDesignInterview/videos)
-
-[Catalin Pit on Twitter: &quot;&quot;In tech, interviews are harder than the actual jobs&quot; This is a joke, but it can be true in many cases. Unfortunately. Check these 7 GitHub repositories that will help you prepare for the interviews. 💡&quot; / Twitter](https://mobile.twitter.com/catalinmpit/status/1519303615608934401)
-
-[GitHub - binhnguyennus/awesome-scalability: The Patterns of Scalable, Reliable, and Performant Large-Scale Systems](https://github.com/binhnguyennus/awesome-scalability)
-
-[EP17: Design patterns cheat sheet. Also... - by Alex Xu](https://blog.bytebytego.com/p/ep17-design-patterns-cheat-sheet)
-
-
-Coding
------
-
-[NeetCode Practice](https://neetcode.io/practice)
-
-[LeetCode Solutions](https://www.tutorialcup.com/leetcode-solutions)
-
-[kamyu104/LeetCode-Solutions: 🏋️ Python / Modern C++ Solutions of All 2473 LeetCode Problems (Weekly Update)](https://github.com/kamyu104/LeetCode-Solutions)
-
-[[Python] Powerful Ultimate Binary Search Template. Solved many problems - LeetCode Discuss](https://leetcode.com/discuss/general-discussion/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
-
-[Blind 75 LeetCode Questions - LeetCode Discuss](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 
 
 Uncategorized

@@ -48,6 +48,22 @@ Coding
 [Blind 75 LeetCode Questions - LeetCode Discuss](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 
 
+Cassandra
+-----
+[01 | Intro to Cassandra - Cassandra Fundamentals](https://www.youtube.com/watch?v=YjYWsN1vek8)
+
+[03 | Intro to Cassandra - Tables, Partitions, and Examples](https://www.youtube.com/watch?v=8AoWhAhfuYk)
+
+[04 | Intro to Cassandra - Create a Table](https://www.youtube.com/watch?v=zrJlojbxeXo)
+
+[05 | Intro to Cassandra - The Art of Data Modeling](https://www.youtube.com/watch?v=_W5VvxzoS6w)
+
+[06 | Intro to Cassandra - Execute CRUD Operations](https://www.youtube.com/watch?v=uNcKWoE4mZM)
+
+[07 | Intro to Cassandra - What's Next?](https://www.youtube.com/watch?v=YjYWsN1vek8)
+
+
+
 HBase
 -----
 

@@ -23,7 +23,7 @@ System Design
 
 [Build a real-time gaming leaderboard with Amazon ElastiCache for Redis | AWS Database Blog](https://aws.amazon.com/blogs/database/building-a-real-time-gaming-leaderboard-with-amazon-elasticache-for-redis/)
 
-[System Design Interview – Step By Step Guide - YouTube]([https://m.youtube.com/watch?v](https://www.youtube.com/watch?app=desktop&v=bUHFg8CZFws))
+[System Design Interview – Step By Step Guide - YouTube](https://www.youtube.com/watch?app=desktop&v=bUHFg8CZFws)
 
 [System Design Interview - YouTube](https://m.youtube.com/c/SystemDesignInterview/videos)
 

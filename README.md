@@ -188,6 +188,8 @@ ML
 Spark
 -----
 
+[Spark Window Functions with Examples](https://sparkbyexamples.com/spark/spark-sql-window-functions/)
+
 [Spark Structured Streaming](https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html)
 
 [Recovering from Failures with Checkpointing](https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html#recovering-from-failures-with-checkpointing)

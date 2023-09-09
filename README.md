@@ -1,6 +1,8 @@
 System Design
 -----
 
+[Rate limiting using Redis](https://redis.com/glossary/rate-limiting/)
+
 [Basic System Design for Uber or Lyft](https://www.youtube.com/watch?v=R_agd5qZ26Y)
 
 [System Design for Twitter (Timeline, Live Updates, Tweeting) ](https://www.youtube.com/watch?v=_QqpD0w8oPM)

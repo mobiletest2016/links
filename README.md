@@ -1,3 +1,8 @@
+Blogs
+-----
+[Hudi](https://www.uber.com/en-IN/blog/hoodie/)
+
+
 System Design
 -----
 

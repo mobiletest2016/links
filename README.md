@@ -2,6 +2,9 @@ Blogs
 -----
 [Hudi](https://www.uber.com/en-IN/blog/hoodie/)
 
+[HOW DISCORD STORES BILLIONS OF MESSAGES](https://discord.com/blog/how-discord-stores-billions-of-messages)
+
+[HOW DISCORD STORES TRILLIONS OF MESSAGES](https://discord.com/blog/how-discord-stores-trillions-of-messages)
 
 System Design
 -----

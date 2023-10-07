@@ -57,6 +57,17 @@ Coding
 
 [Blind 75 LeetCode Questions - LeetCode Discuss](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 
+[Dmitry Babichev's Leetcode](https://flykiller.github.io/leetcode/)
+
+[Dmitry Babichev's Coding Patterns](https://flykiller.github.io/coding%20ideas/)
+
+[Codeforces [Tutorial] The DFS tree and its applications: how I found out I really didn't understand bridges](https://codeforces.com/blog/entry/68138)
+
+[Codeforces I compiled a list of almost all useful blogs ever published on Codeforces [update: till 09.06.2021]](https://codeforces.com/blog/entry/91363)
+
+[Codeforces The Ultimate Topic List(with Tutorials, Problems, and Templates)](https://blog.shahjalalshohag.com/topic-list/)
+
+[Codeforces LCA problems](https://codeforces.com/blog/entry/43917)
 
 Cassandra
 -----

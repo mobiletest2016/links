@@ -11,6 +11,10 @@ System Design
 
 :star: [System Design Interview (Links and Blogs)](https://github.com/checkcheckzz/system-design-interview)
 
+:star: [System Design Primer](https://github.com/donnemartin/system-design-primer)
+
+:star: [System Design Primer questions](https://github.com/donnemartin/system-design-primer#additional-system-design-interview-questions)
+
 [Rate limiting using Redis](https://redis.com/glossary/rate-limiting/)
 
 [Basic System Design for Uber or Lyft](https://www.youtube.com/watch?v=R_agd5qZ26Y)

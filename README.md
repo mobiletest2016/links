@@ -9,6 +9,8 @@ Blogs
 System Design
 -----
 
+:star: [System Design Interview (Links and Blogs)](https://github.com/checkcheckzz/system-design-interview)
+
 [Rate limiting using Redis](https://redis.com/glossary/rate-limiting/)
 
 [Basic System Design for Uber or Lyft](https://www.youtube.com/watch?v=R_agd5qZ26Y)

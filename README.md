@@ -15,6 +15,8 @@ System Design
 
 :star: [System Design Primer questions](https://github.com/donnemartin/system-design-primer#additional-system-design-interview-questions)
 
+:star: [GitHub - binhnguyennus/awesome-scalability: The Patterns of Scalable, Reliable, and Performant Large-Scale Systems](https://github.com/binhnguyennus/awesome-scalability)
+
 [Rate limiting using Redis](https://redis.com/glossary/rate-limiting/)
 
 [Basic System Design for Uber or Lyft](https://www.youtube.com/watch?v=R_agd5qZ26Y)
@@ -44,8 +46,6 @@ System Design
 [System Design Interview - YouTube](https://m.youtube.com/c/SystemDesignInterview/videos)
 
 [Catalin Pit on Twitter: &quot;&quot;In tech, interviews are harder than the actual jobs&quot; This is a joke, but it can be true in many cases. Unfortunately. Check these 7 GitHub repositories that will help you prepare for the interviews. 💡&quot; / Twitter](https://mobile.twitter.com/catalinmpit/status/1519303615608934401)
-
-[GitHub - binhnguyennus/awesome-scalability: The Patterns of Scalable, Reliable, and Performant Large-Scale Systems](https://github.com/binhnguyennus/awesome-scalability)
 
 [EP17: Design patterns cheat sheet. Also... - by Alex Xu](https://blog.bytebytego.com/p/ep17-design-patterns-cheat-sheet)
 

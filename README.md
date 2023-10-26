@@ -31,8 +31,6 @@ System Design
 
 [Uber Big Data Platform](https://www.uber.com/en-IN/blog/uber-big-data-platform/)
 
-[System Design Interview - YouTube](https://www.youtube.com/c/SystemDesignInterview)
-
 [Amazon System Design | Flipkart System Design | System Design Interview Question - YouTube](https://www.youtube.com/watch?v=EpASu_1dUdE)
 
 [System Design and Architecture Interview Preparation Series by FAANG Engineers - YouTube](https://www.youtube.com/watch?v=3loACSxowRU)

@@ -1,3 +1,10 @@
+Interview prep:
+-----
+
+[Tech Interview Handbook](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
+
+[Behavioral interview](https://www.techinterviewhandbook.org/behavioral-interview/)
+
 Blogs
 -----
 [Hudi](https://www.uber.com/en-IN/blog/hoodie/)

@@ -9,6 +9,8 @@ Blogs
 -----
 [Hudi](https://www.uber.com/en-IN/blog/hoodie/)
 
+[Doordash - How We Scaled New Verticals Fulfillment Backend with CockroachDB](https://doordash.engineering/2023/02/07/how-we-scaled-new-verticals-fulfillment-backend-with-cockroachdb/)
+
 [HOW DISCORD STORES BILLIONS OF MESSAGES](https://discord.com/blog/how-discord-stores-billions-of-messages)
 
 [HOW DISCORD STORES TRILLIONS OF MESSAGES](https://discord.com/blog/how-discord-stores-trillions-of-messages)
